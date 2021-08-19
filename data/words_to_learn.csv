@@ -1,0 +1,967 @@
+Unnamed: 0,Spanish,English
+0,que,that
+1,de,of
+2,no,do not
+3,a,to
+4,la,the
+5,el,the
+6,es,it is
+7,y,Y
+9,lo,it
+10,un,a
+11,por,by
+12,qué,that
+13,me,I
+14,una,a
+15,te,tea
+16,los,the
+17,se,I know
+18,con,with
+19,para,to
+20,mi,me
+21,está,is
+22,si,Yes
+23,bien,good
+24,pero,but
+25,yo,me
+26,eso,that
+27,las,the
+29,su,its
+30,tu,you
+31,aquí,here
+32,del,of the
+33,al,to the
+34,como,What
+35,le,you
+36,más,more
+37,esto,this
+38,ya,already
+39,todo,everything
+40,esta,is
+41,vamos,go
+42,muy,very
+43,hay,there is
+44,ahora,now
+45,algo,something
+46,estoy,am
+47,tengo,have
+48,nos,us
+49,tú,your
+50,nada,any
+51,cuando,when
+52,ha,he has
+53,este,East
+54,sé,he
+55,estás,are
+56,así,So
+57,puedo,may l
+58,cómo,What
+59,quiero,I want
+60,sólo,single
+61,soy,am
+62,tiene,has
+63,gracias,Thank you
+64,o,or
+65,él,he
+66,bueno,good
+67,fue,It was
+68,ser,to be
+69,hacer,do
+70,son,are
+71,todos,everybody
+73,eres,are
+74,vez,time
+75,tienes,you have
+76,creo,believe
+78,he,I
+79,ese,that
+80,voy,go
+81,puede,may
+82,sabes,you know
+83,hola,Hello
+84,sus,their
+85,porque,why
+86,dios,God
+87,quién,who
+88,nunca,never
+89,dónde,where
+91,casa,home
+92,favor,favor
+93,esa,that
+94,dos,two
+95,tan,so
+96,señor,Mr
+97,tiempo,weather
+98,verdad,truth
+99,estaba,I was
+100,mejor,best
+101,están,is it so
+102,va,he
+103,hombre,men
+104,usted,you
+105,mucho,much
+106,hace,does
+107,entonces,then
+108,siento,I feel
+109,tenemos,have
+110,puedes,you can
+111,ahí,there
+112,ti,you
+113,vida,life
+114,ver,watch
+115,alguien,somebody
+116,sr,Mr
+117,hasta,until
+118,sin,without
+119,mí,my
+120,solo,only
+121,años,years
+122,sobre,about
+123,decir,tell
+124,uno,one
+125,siempre,forever
+126,oh,oh
+127,ir,go
+128,cosas,stuff
+129,también,too
+130,antes,before
+131,has,you
+132,ni,neither
+133,mis,my
+134,día,day
+135,estar,be
+136,noche,night
+137,nadie,nobody
+138,otra,other
+139,quiere,wants
+140,parece,It seems
+141,poco,little bit
+142,padre,dad
+143,trabajo,job
+144,gente,people
+145,mira,look
+146,vas,you go
+147,sea,be
+148,les,them
+149,donde,where
+150,mismo,same
+151,hecho,done
+152,ellos,they
+153,dijo,He said
+154,pasa,happens
+155,dinero,money
+156,hijo,child
+157,tal,such
+158,otro,other
+159,hablar,talk
+160,seguro,sure
+161,claro,Sure
+162,estas,are
+163,lugar,place
+164,mundo,world
+165,amigo,friend
+166,espera,waiting
+167,mierda,shit
+168,han,they have
+169,tus,your
+170,sabe,knows
+171,después,after
+172,momento,moment
+173,desde,from
+174,fuera,outside
+176,tipo,type
+177,mañana,morning
+178,podemos,we can
+179,dije,I said
+180,gran,big
+181,necesito,needed
+182,estado,condition
+183,podría,might
+184,acuerdo,agreement
+185,papá,dad
+186,tener,have
+187,dice,He says
+188,mío,Own
+189,crees,think
+190,buena,good
+191,gusta,like
+192,nuestro,our
+193,nuevo,new
+194,será,will be
+195,haciendo,doing
+196,días,days
+197,nombre,Name
+198,buen,good
+199,había,there was
+200,ven,come
+201,tres,three
+202,menos,less
+203,debe,should
+204,tenía,I had
+205,mal,evil
+206,conmigo,with me
+207,madre,mother
+208,hoy,today
+209,quien,who
+210,sido,been
+211,mamá,mother
+212,tienen,have
+213,luego,soon
+214,todas,all
+215,allí,there
+216,toda,all
+217,hora,time
+218,mujer,woman
+219,visto,viewed
+220,haces,you do
+221,importa,matters
+222,contigo,with you
+223,ve,go
+224,tarde,afternoon
+225,parte,part
+226,haber,to have
+227,hombres,mens
+228,problema,trouble
+229,mas,more
+230,saber,to know
+231,quería,wanted
+232,aún,still
+233,veces,times
+234,nuestra,our
+235,hacerlo,do it
+236,cada,every
+237,hizo,made
+238,veo,I see
+239,tanto,so much
+240,razón,reason
+241,ustedes,your
+242,idea,idea
+243,esos,those
+244,van,go
+245,quizá,maybe
+246,debo,I must
+247,alguna,some
+248,cierto,TRUE
+249,ud,You
+250,muerto,dead
+251,unos,some
+252,estos,these
+253,salir,leave
+254,policía,policeman
+255,realmente,Really
+256,demasiado,too
+257,familia,family
+258,pueden,they can
+259,cabeza,head
+260,hemos,we have
+261,amigos,friends
+262,chica,girl
+263,cariño,sweetie
+265,allá,there
+266,entre,Come in
+267,minutos,minutes
+268,digo,say
+269,algún,some
+270,serio,I laughed
+271,cuidado,watch out
+272,pasó,He passed
+273,buenas,good
+274,somos,are
+275,amor,love
+276,puerta,door
+277,ves,you see
+278,vaya,Wow
+279,ah,ah
+280,suerte,lucky
+281,eh,Hey
+282,rápido,Quick
+283,cuenta,bill
+284,quizás,maybe
+285,esas,those
+286,pues,then
+288,pensé,I thought
+289,todavía,yet
+290,hermano,brother
+291,debes,you must
+292,casi,almost
+293,forma,shape
+294,aqui,here
+295,chico,guy
+297,dicho,saying
+298,nueva,new
+299,sabía,I knew
+300,muchas,many
+301,dentro,inside
+302,hice,I did
+303,contra,against
+304,auto,car
+305,camino,way
+306,ayuda,help
+308,hacia,toward
+309,vi,saw
+310,miedo,afraid
+311,adiós,goodbye
+312,primero,first
+313,debería,it should
+314,poder,can
+317,historia,history
+318,hey,hey
+319,mientras,while
+320,ciudad,city
+321,dijiste,said
+322,espero,I hope
+323,cuánto,how much
+324,esposa,wife
+325,pronto,early
+326,chicos,Boys
+327,cualquier,any
+328,viejo,old
+329,debemos,we must
+331,año,year
+332,muerte,death
+333,hablando,talking
+334,manos,hands
+335,da,gives
+336,loco,mad
+337,problemas,problems
+338,mano,hand
+339,guerra,war
+340,pasar,pass
+341,vale,OK
+342,cuál,which one
+343,viene,comes
+344,volver,return
+345,toma,taking
+346,caso,case
+347,agua,Water
+348,haré,I will do
+349,vete,go away
+350,entiendo,I get it
+351,horas,hours
+352,personas,people
+353,capitán,captain
+354,adelante,go ahead
+355,niño,kid
+356,listo,clever
+357,noches,nights
+358,buenos,good ones
+359,iba,I was going
+360,juntos,together
+361,dame,give to me
+362,único,unique
+363,déjame,let me
+364,cerca,close
+365,otros,others
+366,sigue,go on
+367,grande,big
+368,arriba,up
+369,jefe,boss
+370,habla,speaks
+371,supongo,I suppose
+372,manera,way
+373,quieren,they want
+374,feliz,happy
+375,significa,it means
+376,sangre,blood
+377,fin,end
+378,bajo,under
+379,llama,calls
+380,venir,come
+381,morir,To die
+382,importante,important
+383,hiciste,did
+384,ojos,eyes
+385,escucha,listens
+386,entrar,get in
+387,ningún,any
+388,corazón,heart
+389,diablos,Devils
+390,necesitamos,need
+391,atrás,behind
+392,durante,during
+393,dices,say
+394,nuestros,our
+395,persona,person
+396,abajo,down
+397,dr,dr
+398,hija,daughter
+399,dejar,let
+400,necesita,needs to
+401,llegar,to get
+402,hago,do
+403,señora,Ms
+404,haya,is
+405,suficiente,enough
+406,doctor,doctor
+407,gustaría,would like
+408,tierra,Earth
+409,cara,expensive
+410,siquiera,at least
+411,genial,brilliant
+412,cree,cree
+413,supuesto,supposed
+414,tomar,drink
+415,equipo,team
+416,justo,just
+417,juego,play
+418,ninguna,none
+419,matar,kill
+420,cinco,five
+421,dicen,say
+422,amo,love
+423,cuándo,when
+424,pequeño,little
+425,algunos,Some
+426,conozco,know
+427,clase,class
+428,maldito,damned
+429,unas,nail
+430,muchos,Many
+431,hubiera,had
+432,segundo,second
+433,aunque,even if
+434,pueda,can
+435,dime,tell me
+436,igual,same
+437,comida,food
+438,ay,Oh
+439,cuerpo,body
+440,encontrar,meet
+441,fuerte,strong
+442,vuelta,lap
+443,creer,to believe
+444,realidad,reality
+445,saben,they know
+446,deberías,you should
+447,pregunta,question
+448,fui,I was
+449,cuatro,four
+450,sra,Ms
+451,primer,first
+452,trabajar,work
+453,e,and
+454,hagas,you do
+455,alto,tall
+456,maldita,damn
+457,comer,to eat
+458,número,number
+459,dar,give
+460,necesitas,you need
+461,oportunidad,chance
+462,punto,point
+463,misma,same
+464,última,last
+465,afuera,outside
+466,mujeres,women
+467,pensar,to think
+468,fueron,They were
+469,difícil,hard
+470,vivir,to live
+471,paso,He passed
+472,malo,bad
+473,estabas,you were
+474,vivo,alive
+475,haga,make
+476,queda,is left over
+477,hijos,sons
+478,mayor,higher
+479,fiesta,party
+480,hacen,make
+481,medio,half
+482,algunas,some
+483,basta,Enough
+484,arma,weapon
+485,vino,came
+486,meses,months
+487,cuarto,quarter
+488,éste,East
+489,escuela,school
+490,esté,East
+491,dólares,Dollars
+492,tío,uncle
+493,posible,possible
+494,tuve,I had
+495,fácil,easy
+496,luz,light
+497,eran,they were
+498,carajo,fuck
+499,final,final
+500,lista,list
+501,trata,about
+502,armas,weapons
+503,hermana,sister
+504,exactamente,exactly
+505,chicas,girls
+506,podía,I could
+507,bastante,pretty
+508,seguridad,security
+509,pasando,going
+510,esperando,waiting
+511,acá,here
+512,teléfono,telephone
+513,perro,dog
+514,fuego,fire
+515,murió,died
+516,tampoco,either
+517,sola,alone
+518,estuvo,he was
+519,verte,to see you
+520,iré,I will go
+521,tenido,Dyed
+522,culpa,fault
+523,veras,you'll see
+524,adónde,where to
+525,buscando,searching
+526,cuanto,how much
+527,padres,parents
+528,paz,peace
+529,demonios,demons
+530,estará,will be
+531,cual,which
+532,perdón,sorry
+533,asi,So
+534,jugar,play
+535,pensando,thinking
+536,esperar,wait
+537,sabemos,we know
+538,recuerdo,memory
+539,par,pair
+540,joven,young
+541,seguir,continue
+542,pueblo,town
+543,tenga,have
+544,caballeros,gentlemen
+545,idiota,moron
+546,dio,gave
+547,minuto,minute
+548,bebé,baby
+549,única,only
+551,nuestras,our
+552,plan,plan
+553,pienso,I think
+554,sentido,sense
+555,dormir,sleep
+556,digas,you say
+557,palabra,word
+558,correcto,Right
+559,control,control
+560,vemos,we see
+561,entiendes,You understand
+562,país,country
+563,seis,six
+564,último,latest
+565,ésta,is
+566,diga,tell
+567,podrías,could you
+568,pequeña,small
+569,cállate,shut
+570,trato,treatment
+571,rey,King
+572,sucede,happens
+573,muchachos,boys
+574,jamás,Never
+575,cama,bed
+576,srta,Ms
+577,ayudar,help
+578,acerca,about
+579,di,gave
+580,cambio,change
+581,falta,lack
+582,hospital,hospital
+583,lleva,carries
+584,presidente,President
+585,mil,thousand
+586,gusto,taste
+587,conoces,you know
+588,diciendo,saying
+589,os,you
+590,ido,gone
+591,general,general
+592,extraño,strange
+593,semanas,weeks
+594,coche,car
+595,peor,worse
+596,mucha,a lot
+597,disculpe,excuse me
+598,diré,I will say
+599,anoche,last night
+600,perder,to lose
+601,vámonos,Let's go
+602,nave,ship
+603,cielo,Darling
+604,habrá,there will be
+606,segura,safe
+607,querida,Dear
+608,niña,little girl
+609,increíble,amazing
+610,además,what's more
+611,deben,should
+612,libro,book
+613,calle,Street
+614,café,coffee
+615,piensas,think
+616,hacemos,we make
+617,especial,special
+618,queremos,we want
+619,irme,leave
+620,perfecto,perfect
+621,buscar,search for
+622,odio,hate
+623,piensa,think
+624,oficina,office
+625,hablas,speak
+626,libre,free
+627,agente,agent
+628,york,york
+629,llamar,to call
+630,mala,bad
+631,detrás,behind
+632,viste,dresses
+633,dile,tell him
+634,grandes,large
+635,recuerdas,remember
+636,real,real
+637,estaban,were
+638,mía,mine
+639,frente,front
+640,perdido,lost
+641,llamo,I call
+642,muertos,dead
+643,millones,millions
+644,asesino,assassin
+645,sueño,sleep
+646,quisiera,I'd like
+647,habría,there would be
+648,hará,will
+649,viaje,trip
+650,probablemente,probably
+651,resto,rest
+652,estaré,I will be
+653,maldición,curse
+654,lamento,lament
+655,muchacho,young guy
+656,avión,plane
+657,ropa,clothing
+658,fuerza,force
+659,llamado,called
+660,oído,hearing
+661,dado,given
+662,encima,over
+663,negro,black
+664,usar,use
+665,información,information
+666,uds,You
+667,preguntas,questions
+668,tuvo,He had
+669,secreto,secret
+670,vuelve,returns
+671,miren,look
+672,quieras,want
+673,haría,would do
+674,acaba,just
+675,otras,other
+676,incluso,even
+677,sientes,you feel
+678,deberíamos,we should
+679,haz,make
+680,decirte,tell you
+681,boca,mouth
+682,dolor,pain
+683,baño,bathroom
+684,adentro,inside
+685,profesor,Teacher
+686,habitación,room
+687,daño,damage
+688,tuyo,of yours
+689,seas,be
+690,noticias,news
+691,demás,the rest
+692,querido,Dear
+693,duro,Lasted
+694,poner,set
+695,prueba,proof
+696,mire,Look
+697,tonto,fool
+698,campo,field
+699,siendo,being
+700,diez,ten
+701,ése,that
+702,tranquilo,quiet
+703,asunto,matter
+704,acabó,just
+705,quédate,stay
+706,derecho,straight
+707,placer,pleasure
+708,recuerda,remember
+709,estuve,I was
+710,tratando,trying
+711,ejército,army
+712,futuro,future
+713,llevar,bring
+714,compañía,company
+715,venido,I come
+716,listos,ready
+717,haremos,will
+718,sitio,site
+719,verlo,see him
+720,puesto,Market Stall
+721,atención,attention
+722,sino,otherwise
+724,error,error
+725,blanco,White
+726,raro,rare
+727,palabras,words
+728,llegó,I arrive
+729,sal,Salt
+730,pase,happens
+731,mente,mind
+732,sistema,system
+733,película,movie
+734,anda,anda
+735,ello,it
+736,negocio,deal
+737,novia,bride
+738,permiso,Excuse me
+740,suena,sounds
+741,oficial,official
+742,espere,Wait
+743,aire,air
+744,mató,he killed
+745,regresar,to get back
+746,vio,saw
+747,hazlo,do it
+748,trasero,rear
+749,grupo,group
+750,entendido,understood
+751,señorita,Miss
+752,música,music
+753,perra,female dog
+754,conoce,known
+755,empezar,begin
+756,siente,feels
+757,acabo,finished
+758,estúpido,stupid
+759,diferente,different
+760,traje,costume
+761,modo,mode
+762,encontré,I found
+763,mensaje,message
+764,llamada,call
+765,navidad,Christmas
+766,eras,ages
+767,pena,pain
+768,largo,length
+769,entra,enters
+770,piso,floor
+771,foto,Photo
+772,dijeron,they said
+773,accidente,accident
+774,fuiste,you were
+775,imposible,impossible
+776,podríamos,we could
+777,línea,line
+778,propia,own
+779,barco,ship
+780,ganar,to win
+781,normal,normal
+782,segundos,seconds
+783,vive,it lives
+784,mitad,half
+785,quiera,want
+786,tras,after
+787,decirle,tell
+788,lindo,cute
+789,funciona,it works
+790,programa,Program
+791,vine,came
+792,abre,opens
+793,sean,are
+794,pagar,to pay
+795,fotos,photos
+796,centro,center
+797,supone,supposed
+798,basura,trash
+799,situación,situation
+800,mejores,top
+802,encanta,loves
+803,marido,husband
+804,personal,personal
+805,maestro,teacher
+806,hambre,hungry
+807,ataque,attack
+808,culo,ass
+809,dale,Go ahead
+810,pie,foot
+811,conseguir,to get
+812,trabajando,working
+813,gracioso,funny
+814,dejó,let
+815,pudo,could
+816,derecha,right
+817,izquierda,left
+818,próxima,next
+819,pobre,poor
+820,respuesta,answer
+821,tipos,types
+822,sentir,feel
+823,tenías,had
+824,pude,could
+825,darle,give him
+826,voz,voice
+827,amiga,friend
+828,gustan,like
+829,vista,view
+830,salvo,except
+832,hotel,hotel
+833,hicieron,they made
+834,ten,ten
+835,temo,fear
+836,señal,sign
+838,llevo,I wear
+839,das,you give
+840,nena,Chick
+842,tren,train
+843,bonito,beautiful
+844,mes,month
+845,tendrá,will have
+846,tendrás,you will have
+847,edad,age
+848,ellas,they
+849,hermosa,beautifull
+850,honor,honor
+851,simplemente,simply
+852,llamas,calls
+853,tengas,you have
+854,corre,runs
+855,baja,short
+856,sol,Sun
+857,siéntate,Sit down
+858,dan,give
+859,humano,human
+860,divertido,funny
+861,sexo,sex
+862,vuelto,turned
+863,peligro,danger
+864,mesa,desk
+865,siguiente,following
+866,hablo,I speak
+867,disculpa,sorry
+868,decirme,tell me
+869,caja,cash register
+870,negocios,business
+871,misión,mission
+872,silencio,silence
+873,sale,comes out
+874,llegado,arrived
+875,estaría,It would
+876,regreso,he came back
+877,media,half
+878,estan,are
+879,propio,own self
+880,enseguida,right away
+881,linda,beautiful
+882,prometo,I promise
+883,esposo,husband
+884,norte,North
+885,hubo,was
+886,juro,I swear
+887,muerta,dead
+888,interesante,interesting
+889,pensaba,thought
+890,busca,seeks
+891,terminar,end up
+892,tendré,I will have
+893,completamente,completely
+894,cita,date
+895,siete,seven
+896,cumpleaños,birthday
+897,abogado,attorney
+899,cerebro,brain
+900,porqué,why
+901,llave,wrench
+902,santo,holy
+903,hermoso,handsome
+904,necesario,necessary
+905,edificio,building
+906,irnos,leave
+907,aun,yet
+908,tendremos,we will have
+909,vayas,go
+910,doy,give
+911,trae,brings
+912,salió,he left
+913,ley,law
+914,ahi,there
+915,verdadero,TRUE
+916,pelea,Fight
+917,banco,Bank
+918,terrible,terrible
+919,calma,Calm down
+920,cena,Dinner
+921,daré,I'll give
+922,gobierno,government
+923,comprar,to buy
+924,creen,believe
+925,sargento,sergeant
+926,destino,destiny
+927,existe,exists
+928,hacía,toward
+929,novio,groom
+930,sala,living room
+931,través,through
+932,regalo,gift
+933,iglesia,church
+934,decía,He said
+935,cualquiera,any
+936,excelente,Excellent
+937,esperen,expect
+938,deseo,desire
+939,alma,soul
+940,diablo,Devil
+941,deje,leave
+942,cuántos,many
+943,espada,sword
+944,estábamos,we were
+945,carne,meat
+946,maravilloso,marvelous
+947,vidas,lifes
+948,sucedió,it happened
+949,oí,I heard
+950,peligroso,dangerous
+951,dirección,address
+952,libertad,Liberty
+953,jesús,Jesus
+954,ocurrió,occurred
+955,veré,I will see
+956,sueños,dreams
+957,pudiera,could
+958,detective,detective
+959,sorpresa,surprise
+960,tuya,yours
+961,pies,feet
+962,club,club
+963,terminado,finished
+964,infierno,hell
+966,luna,Moon
+967,salvar,save
+968,carta,letter
+969,estés,re
+970,cielos,Heavens
+971,teniente,lieutenant
+972,encuentra,finds
+973,veamos,let's see
+974,quise,I wanted
+975,escúchame,listen to me
+976,necesitan,need
+977,ambos,both of them
+978,decisión,decision
+979,enemigo,enemy
+980,hicimos,we did
+981,dulce,candy
+982,pruebas,tests
+983,querías,wanted
+984,abuelo,Grandpa
+985,totalmente,totally
+986,mirando,looking
+987,vayan,go
+988,carrera,career
